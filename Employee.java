@@ -9,6 +9,9 @@ public class Employee {
 		long phone = 9688999284l;
 		char gender= 'm';
 		
+		System.out.println("mugul final step");
+		System.out.println("*******----////////");
+		
 		System.out.println(name);
 		System.out.println(age);
 		System.out.println(phone);
